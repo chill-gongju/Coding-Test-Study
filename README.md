@@ -54,7 +54,7 @@
 
 # 🐿️ Github
 
-종훈: https://github.com/jonghoon-L/Coding-Test-Study
+종훈: https://github.com/jonghoon-L/Coding-Test
 
 정욱:
 
