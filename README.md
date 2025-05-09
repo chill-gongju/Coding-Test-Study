@@ -1,4 +1,4 @@
-![thumnail (5)](https://github.com/user-attachments/assets/84116414-623f-444a-ad02-6c2dd423d285)
+![thumnail (5)](https://github.com/user-attachments/assets/39502abe-3cf3-4228-83ee-8a520376d06b)
 
 # 👥 스터디 멤버
 
