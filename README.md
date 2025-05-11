@@ -13,6 +13,7 @@
         <td>
         <img src="https://avatars.githubusercontent.com/u/128888732?v=4" width="120px" height="120px"/>
         </td>
+        <td>
         <img src="https://avatars.githubusercontent.com/u/55120757?v=4" width="120px" height="120px"/>
         </td>
     </tr>
