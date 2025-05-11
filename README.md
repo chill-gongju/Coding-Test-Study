@@ -13,6 +13,9 @@
         <td>
         <img src="https://avatars.githubusercontent.com/u/128888732?v=4" width="120px" height="120px"/>
         </td>
+        <td>
+        <img src="https://avatars.githubusercontent.com/u/55120757?v=4" width="120px" height="120px"/>
+        </td>
     </tr>
     <tr>
         <td>
@@ -28,6 +31,11 @@
         <td>
         <a href="https://github.com/chaeon1">
             황채연
+        </a>
+        </td>
+        <td>
+        <a href="https://github.com/heebeom-song">
+            송희범
         </a>
         </td>
     </table>
@@ -59,3 +67,5 @@
 정욱:
 
 채연:
+
+희범: 
