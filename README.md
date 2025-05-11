@@ -56,7 +56,7 @@
 
 3️⃣ [프로그래머스](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1) 활용
 
-4️⃣ 안 풀어오면 벌금 5000 - 100082842620 토스
+4️⃣ 안 풀어오면 벌금 5000
 
 ---
 
