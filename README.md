@@ -50,9 +50,9 @@
 
 # 🔥 진행 방법
 
-1️⃣ 각자 매주 10문제 풀어오기
+1️⃣ 각자 매주 5문제 풀어오기
 
-2️⃣ 회의 때 각자 푼 문제 중 1문제 설명하기(젤 어려웠던 문제나 기억에 남는 문제)
+2️⃣ 매주 돌아가며 알고리즘 관련 주제 발표하기
 
 3️⃣ [프로그래머스](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1) 활용
 
@@ -64,8 +64,55 @@
 
 종훈: https://github.com/jonghoon-L/Coding-Test
 
-정욱:
+정욱: https://github.com/nowrobin/Coding-Test
 
 채연:
 
 희범: 
+
+---
+
+# 📅 발표 기록
+<table width="100%" style="table-layout: fixed;">
+  <thead>
+    <tr>
+      <th align="center">날짜</th>
+      <th align="center">알고리즘</th>
+      <th align="center">내용</th>
+      <th align="center">발표자</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">1주차<br />(25.05.22 - 25.05.29)</th>
+      <td align="center"><code></code></td>
+      <td><a href=''></td>
+      <td align="center">정욱</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">2주차<br />(25.05.29 - 25.06.05)</th>
+      <td align="center"><code></code></td>
+      <td><a href=''></td>
+      <td align="center">희범</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">3주차<br />(25.06.05 - 25.06.12)</th>
+      <td align="center"><code></code></td>
+      <td><a href=''></td>
+      <td align="center">종훈</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">4주차<br />(25.06.12 - 25.06.19)</th>
+      <td align="center"><code></code></td>
+      <td><a href=''></td>
+      <td align="center">채연</td>
+    </tr>
+  </tbody>
+</table>
+
