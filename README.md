@@ -66,9 +66,9 @@
 
 정욱: https://github.com/nowrobin/Coding-Test
 
-채연:
+채연: https://github.com/chaeon1/algorithm-study
 
-희범: 
+희범: https://github.com/heebeom-song/programmers-coding-test
 
 ---
 
