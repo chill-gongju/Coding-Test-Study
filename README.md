@@ -85,8 +85,8 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">1주차<br />(25.05.22 - 25.05.29)</th>
-      <td align="center"><code></code></td>
-      <td><a href=''></td>
+      <td align="center"><code>완전 탐색</code></td>
+      <td><a href='https://velog.io/@nowrobin/%EC%99%84%EC%A0%84-%ED%83%90%EC%83%89'>발표 자료</td>
       <td align="center">정욱</td>
     </tr>
   </tbody>
