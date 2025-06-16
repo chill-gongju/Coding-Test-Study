@@ -94,7 +94,7 @@
     <tr>
       <th rowspan=8 align="center">2주차<br />(25.05.29 - 25.06.05)</th>
       <td align="center"><code>동적 계획</code></td>
-      <td><a href='https://heebeom-song.github.io/%EA%B0%9C%EB%B0%9C%20%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/dynamic%20programming.html'></td>
+      <td><a href='https://heebeom-song.github.io/%EA%B0%9C%EB%B0%9C%20%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/dynamic%20programming.html'>발표 자료</td>
       <td align="center">희범</td>
     </tr>
   </tbody>
@@ -102,7 +102,7 @@
     <tr>
       <th rowspan=8 align="center">3주차<br />(25.06.05 - 25.06.12)</th>
       <td align="center"><code>알고리즘 코테 적용법</code></td>
-      <td><a href='https://velog.io/@znhxxn/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%ED%85%8C%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0'></td>
+      <td><a href='https://velog.io/@znhxxn/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%ED%85%8C%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0'>발표 자료</td>
       <td align="center">종훈</td>
     </tr>
   </tbody>
