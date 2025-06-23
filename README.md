@@ -109,9 +109,17 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">4주차<br />(25.06.12 - 25.06.19)</th>
+      <td align="center"><code>시간 복잡도</code></td>
+      <td><a href='https://chaeon1.tistory.com/28'>발표 자료</td>
+      <td align="center">채연</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">5주차<br />(25.06.19 - 25.06.26)</th>
       <td align="center"><code></code></td>
       <td><a href=''></td>
-      <td align="center">채연</td>
+      <td align="center">정욱</td>
     </tr>
   </tbody>
 </table>
