@@ -117,9 +117,17 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">5주차<br />(25.06.19 - 25.06.26)</th>
+      <td align="center"><code>정렬</code></td>
+      <td><a href='https://velog.io/@nowrobin/%EC%A0%95%EB%A0%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Recap'>발표 자료</td>
+      <td align="center">정욱</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">6주차<br />(25.06.26 - 25.07.03)</th>
       <td align="center"><code></code></td>
       <td><a href=''></td>
-      <td align="center">정욱</td>
+      <td align="center">희범</td>
     </tr>
   </tbody>
 </table>
