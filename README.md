@@ -125,9 +125,17 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">6주차<br />(25.06.26 - 25.07.03)</th>
+      <td align="center"><code>탐욕</code></td>
+      <td><a href='https://heebeom-song.github.io/%EA%B0%9C%EB%B0%9C%20%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/Greedy.html'>발표 자료</td>
+      <td align="center">희범</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">7주차<br />(25.07.03 - 25.07.10)</th>
       <td align="center"><code></code></td>
       <td><a href=''></td>
-      <td align="center">희범</td>
+      <td align="center">종훈</td>
     </tr>
   </tbody>
 </table>
