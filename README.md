@@ -133,9 +133,17 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">7주차<br />(25.07.03 - 25.07.10)</th>
+      <td align="center"><code>재귀</code></td>
+      <td><a href='https://velog.io/@znhxxn/%EC%9E%AC%EA%B7%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98recursive-algorithm'>발표 자료</td>
+      <td align="center">종훈</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">8주차<br />(25.07.10 - 25.07.24)</th>
       <td align="center"><code></code></td>
       <td><a href=''></td>
-      <td align="center">종훈</td>
+      <td align="center">채연</td>
     </tr>
   </tbody>
 </table>
